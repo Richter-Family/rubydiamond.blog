@@ -31,6 +31,8 @@ url: "www.rubydiamond.blog" # the base hostname & protocol for your site, e.g. h
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 show_excerpts: true
