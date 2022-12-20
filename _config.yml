@@ -33,7 +33,7 @@ url: "www.rubydiamond.blog" # the base hostname & protocol for your site, e.g. h
 theme: minima
 plugins:
   - jekyll-feed
-
+show_excerpts: true
 google-analytics: G-FTHVX54679
 
 # Exclude from processing.
