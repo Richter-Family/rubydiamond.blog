@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "The Mischievous Ruby"
-date:   2022-12-20 11:01:00 -0500
 categories: ruby family
 ---
 __Based on a True Story__
